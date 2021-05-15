@@ -1,0 +1,18 @@
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+E:\УЧЁБА\C# Уровень 2\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
